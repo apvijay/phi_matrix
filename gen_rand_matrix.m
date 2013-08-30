@@ -1,5 +1,5 @@
 function phi = gen_rand_matrix(phi_type,N,M)
-% Generates and return random matrix for compressed sensing
+% Generates and returns a random matrix for compressed sensing
 % Options: 'gauss', 'sbhe', 'bern'
 
 switch phi_type
