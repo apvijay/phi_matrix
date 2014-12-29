@@ -1,1 +1,1 @@
-Random matrices for compressed sensing. Use for sizes only up to 64x64.
+Random matrices for compressed sensing. Use for sizes only up to 64x64. SBHE matrix definition is based on this paper, Gan et al. FAST COMPRESSIVE IMAGING USING SCRAMBLED BLOCK HADAMARD ENSEMBLE (2008).
